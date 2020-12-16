@@ -1,0 +1,39 @@
+/* ::-webkit-scrollbar{
+  width: 20px;
+  background: #113864;
+  overflow: auto;
+}
+::-webkit-scrollbar-thumb {
+  width: 10px;
+  background-color: rgba(44, 92, 69, 0.911);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, .5);
+} */
+
+
+@font-face {
+  font-family: BushMarket-Regular;
+  src: url(./fonts/BushMarket-Regular.woff);
+}
+
+@font-face {
+  font-family: Yellowtail-Regular-webfont;
+  src: url(./fonts/Yellowtail-Regular-webfont.woff);
+}
+
+@font-face {
+  font-family: Bondjlo;
+  src: url(./fonts/Bondjlo.ttf);
+}
+
+@font-face {
+  font-family: Enriqueta-Regular;
+  src: url(./fonts/Enriqueta-Regular.ttf);
+}
+
+@font-face {
+  font-family: Museo300-Regular;
+  src: url(./fonts/Museo300-Regular.otf);
+}
+
